@@ -1,0 +1,1 @@
+# Bare-PyQt-Code-Editor
